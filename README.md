@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Challenges99
 - 👀 I’m interested in being a programmer 
-- 🌱 I’m currently learning python 
+- 🌱 I’m currently developing a human resource management system using my skills in django and python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me WhatsApp:08061135174 &garbapulisic22@gmail.com 
 
